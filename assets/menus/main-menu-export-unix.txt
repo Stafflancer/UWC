@@ -1,0 +1,12 @@
+About Us {"url":"about","lang":"en","options":{"alter":true,"item_attributes":{"id":"","class":"","style":""}},"weight":"-50"}
+Learning {"url":"learning","lang":"en","options":{"alter":true,"item_attributes":{"id":"","class":"","style":""}},"weight":"-49"}
+Admissions {"url":"admissions","lang":"en","options":{"alter":true,"item_attributes":{"id":"","class":"","style":""}},"weight":"-48"}
+Impacts {"url":"impacts","lang":"en","options":{"alter":true,"item_attributes":{"id":"","class":"","style":""}},"weight":"-47"}
+Support Us {"url":"support-us","lang":"en","options":{"alter":true,"item_attributes":{"id":"","class":"","style":""}},"weight":"-46"}
+Portals {"url":"portals","lang":"en","options":{"alter":true,"item_attributes":{"id":"","class":"","style":""}},"weight":"-45"}
+关于我们 {"url":"about","lang":"zh-hans","options":{"item_attributes":{"id":"","class":"","style":""},"alter":true},"weight":"-44"}
+学在常熟 {"url":"learning","lang":"zh-hans","options":{"item_attributes":{"id":"","class":"","style":""},"alter":true},"weight":"-43"}
+招生 {"url":"admissions","lang":"zh-hans","options":{"item_attributes":{"id":"","class":"","style":""},"alter":true},"weight":"-42"}
+影响力 {"url":"impacts","lang":"zh-hans","options":{"item_attributes":{"id":"","class":"","style":""},"alter":true},"weight":"-41"}
+支持 {"url":"support-us","lang":"zh-hans","options":{"item_attributes":{"id":"","class":"","style":""},"alter":true},"weight":"-40"}
+内网 {"url":"portals","lang":"zh-hans","options":{"alter":true,"item_attributes":{"id":"","class":"","style":""}},"weight":"-39"}
